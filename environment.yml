@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: extreme-weather-events-cookbook-dev
 channels:
   - conda-forge
 dependencies:
