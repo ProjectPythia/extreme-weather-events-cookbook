@@ -14,7 +14,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-[Weiyi Wang](@wwy8828)[Valentine Anantharaj](@anantharajvg), [Harsha Hampapura](@hrhampapura),[Alex Thompson](@alexjt28), [Reihaneh Hassanzadeh](@rhassanzadeh), [Sally Wang](@s-cwang)
+[Weiyi Wang](@wwy8828),[Valentine Anantharaj](@anantharajvg), [Harsha Hampapura](@hrhampapura),[Alex Thompson](@alexjt28), [Reihaneh Hassanzadeh](@rhassanzadeh), [Sally Wang](@s-cwang)
 
 ### Contributors
 
