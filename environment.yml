@@ -2,6 +2,7 @@ name: extreme-weather-events-cookbook-dev
 channels:
   - conda-forge
 dependencies:
+  - aiohttp
   - cartopy
   - cftime
   - cmocean
