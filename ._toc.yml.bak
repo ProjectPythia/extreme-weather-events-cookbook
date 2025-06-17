@@ -1,0 +1,13 @@
+format: jb-book
+root: README
+parts:
+  - caption: Preamble
+    chapters:
+      - file: notebooks/how-to-cite
+  - caption: Introduction
+    chapters:
+      - file: notebooks/notebook-template
+  - caption: <Second Chapter Name>
+    chapters:
+      - file: notebooks/precip-2d
+      - file: notebooks/precip-PDF

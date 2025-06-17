@@ -1,0 +1,30 @@
+version: 1
+extends:
+  - https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia.yml
+project:
+  title: Extreme Weather Events Cookbook
+  authors:
+    - name: Project Pythia Community
+      url: https://projectpythia.org/
+  github: https://github.com/projectpythia-mystmd/extreme-weather-events-cookbook
+  copyright: '2025'
+  toc:
+    - file: README.md
+    - title: Preamble
+      children:
+        - file: notebooks/how-to-cite.md
+    - title: Introduction
+      children:
+        - file: notebooks/notebook-template.ipynb
+    - title: <Second Chapter Name>
+      children:
+        - file: notebooks/precip-2d.ipynb
+        - file: notebooks/precip-PDF.ipynb
+  jupyter:
+      binder:
+        repo: projectpythia-mystmd/extreme-weather-events-cookbook
+site:
+  options:
+    logo: notebooks/images/logos/pythia_logo-white-rtext.svg
+    folders: true
+  template: book-theme
